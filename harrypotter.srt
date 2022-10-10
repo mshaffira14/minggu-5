@@ -1,0 +1,19 @@
+0
+00:00:00.000 --> 00:00:17.000
+Suara kereta
+
+1
+00:00:18.000 --> 00:00:21.000
+Apakah kamu tidak masalah aku duduk disini? Tempat lain sudah penuh
+
+2
+00:00:22.000 --> 00:00:24.000
+Gak masalah
+
+3
+00:00:26.000 --> 00:00:28.000
+Ngomong-ngomong namaku Ron, Ron Weasley
+
+4
+00:00:29.000 --> 00:00:31.000
+Aku Harry, Harry Potter
